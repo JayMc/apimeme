@@ -1,5 +1,5 @@
 # apimeme
-node module for [apimeme.com](http://apimeme.com)
+generate memes via [apimeme.com](http://apimeme.com)
 
 ## generate memes
 I like the simplicity of [apimeme.com](http://apimeme.com) so I created a module for it. [apimeme.com](http://apimeme.com) generates a meme JPG from a GET request. This module might help you use this in your node server.
