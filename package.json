@@ -1,0 +1,26 @@
+{
+  "name": "apimeme",
+  "version": "1.0.0",
+  "description": "node module for apimeme.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "compile": "babel -d lib/ src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayMc/apimeme.git"
+  },
+  "author": "Jason McIver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayMc/apimeme/issues"
+  },
+  "homepage": "https://github.com/JayMc/apimeme#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "should": "^8.3.1"
+  }
+}
